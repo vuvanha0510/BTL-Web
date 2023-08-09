@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Inspire.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>My Blog</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" href="Styles/style.css"/> 
+    <link href="~/lib/font-awesome/css/all.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300&display=swap" rel="stylesheet"/>
+    <link rel="stylesheet" href="Styles/font-awesome.css" /> 
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+     <header class="header">
+         <div class="header__inner">
+            <div class="logo">
+                <a href="Home.aspx">My Blog</a>
+            </div>
+             <!--Responsive menu-->
+            <ul class="menu" id="myMenu">
+                <li class="menu__item"><a href="Home.aspx" class="menu__link">Home</a></li>
+                <li class="menu__item">
+                    <a href="#" class="menu__link">Category <i class="fas fa-caret-down"></i></a>
+                    <ul class="submenu">
+                          <li class="submenu__item"><a href="Category.aspx?category=Programing" class="submenu__link">Programing</a></li>
+                          <li class="submenu__item"><a href="Category.aspx?category=Lifestyle" class="submenu__link">Lifestyle</a></li>
+                          <li class="submenu__item"><a href="Category.aspx?category=Entertainment" class="submenu__link">Entertainment</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item"><a href="About.aspx" class="menu__link">About Us</a></li>
+                <li class="menu__item"><a href="ContactUs.aspx" class="menu__link">Contact Us</a></li>
+                <li class="menu__item"><a href="YourBlogs.aspx" class="menu__link">Your Blog</a></li>
+                <li class="menu__item"><a href="#" class="icon" onclick="myFunction()"><i class="fas fa-bars"></i></a></li>
+            </ul>
+             <!-- Hiện khi người dùng đăng nhập -->
+            <div class="login" id="loginserver" runat="server">
+               
+            </div>
+         </div>
+    </header>
+
+    <form id="form1" runat="server" method="post">
+        <div class="contentform">
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+            
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    <footer class="footer">
+        <p>© BTLLTW 2022</p>
+    </footer>
+    <script src="ckfinder/ckfinder/ckfinder.js"></script>
+    <script src="Scripts/index.js"></script>
+</body>
+</html>

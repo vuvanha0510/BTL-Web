@@ -1,0 +1,194 @@
+﻿/*FULLBLOG*/
+.fullblog {
+    width: 60%;
+    float: left;
+    margin-right: 6rem;
+}
+
+.fullblog__title {
+    margin-bottom: 3rem;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+.fullblog__author {
+    margin-bottom: 3rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+    .fullblog__author span {
+        color: #797878;
+    }
+
+.fullblog__thumb {
+    margin-bottom: 3.5rem;
+}
+
+.fullblog__content {
+}
+
+    .fullblog__content p {
+        margin-bottom: 3.5rem;
+    }
+
+.fullblog__sidebar {
+    width: 30%;
+    float: left;
+}
+
+.fullblog__subcribe {
+    padding: 3rem;
+    border: 2px dashed #8a8c92;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    margin-bottom: 4rem;
+}
+
+    .fullblog__subcribe p {
+        text-align: center;
+        font-size: 1.8rem;
+    }
+
+    .fullblog__subcribe span {
+        font-size: 1.3rem;
+        margin-top: 1.4rem;
+        display: inline-block;
+    }
+
+.fullblog__input {
+    padding: 1.4rem 2rem;
+    outline: 0;
+    border: none;
+    font-size: 1.6rem;
+    font-weight: 400;
+}
+
+.button__sub {
+    background: #ffa27b;
+    width: 100%;
+    font-size: 1.8rem;
+    padding: 2rem;
+    border: none;
+    transition: .4s;
+    outline: 0;
+}
+
+    .button__sub:hover {
+        opacity: .8;
+    }
+
+.fullblog__popular {
+}
+
+    .fullblog__popular h3 {
+        margin-bottom: 3rem;
+        font-size: 2rem;
+        text-transform: uppercase;
+    }
+
+.popular__block {
+    margin-bottom: 3rem;
+}
+
+.popular__left {
+    width: 14.8rem;
+    height: 12rem;
+    float: left;
+    margin-right: 3rem;
+}
+
+.popular__right {
+    float: left;
+    width: 50%;
+}
+
+    .popular__right a {
+        font-size: 1.8rem;
+        margin-bottom: 1rem;
+        transition: .4s;
+        color: #333;
+    }
+
+        .popular__right a:hover {
+            color: #32325d;
+        }
+
+    .popular__right p {
+        font-size: 1.4rem;
+        color: #959595;
+    }
+
+    .popular__right span {
+        color: #333;
+    }
+
+.fullblog__sideimage {
+    position: relative;
+    display: block;
+}
+
+    .fullblog__sideimage h3 {
+        top: 50%;
+        left: 50%;
+        position: absolute;
+        text-align: center;
+        font-size: 3rem;
+        text-transform: uppercase;
+        color: #fff;
+        transform: translate(-50%, -50%);
+    }
+
+#comments {
+    padding: 2rem;
+    border: 1px black solid;
+    overflow: auto;
+}
+
+.comment {
+    padding: 1rem;
+    border-bottom: 1px black solid;
+    overflow: auto;
+}
+
+    .comment .commentAvatar {
+        height: 5rem;
+        width: 5rem;
+        float: left;
+    }
+
+    .comment p {
+        margin-left: 6rem;
+    }
+
+
+/*MEIDA QUERIES*/
+
+
+/*Tablet device < 1025px*/
+@media screen and (min-width: 769px) and (max-width: 1025px) {
+
+  
+}
+/*Mobile device < 768px*/
+@media screen and (max-width: 768px) {
+
+    /*Blog*/
+    .yourblog__content {
+        width: 100%;
+    }
+
+    .fullblog {
+        width: 100%;
+        margin-right: 0;
+        float: none;
+        padding: 0 1.5rem;
+    }
+    .fullblog__sidebar {
+        display: none;
+    }
+    .fullblog__thumb {
+        /* width: 47%;*/
+    }
+}
+

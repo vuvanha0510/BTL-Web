@@ -1,0 +1,101 @@
+﻿/*ADMIN ACOUNT - BLOG*/
+
+.list-account {
+    margin: 12rem 3rem 5rem 3rem;
+    min-height: 100vh;
+}
+
+    .list-account h2 {
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+.tableAccount {
+    margin: 0 auto;
+    padding: 0 15px;
+    border: 1px solid rgba(0,0,0,0.2);
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+/*MEIDA QUERIES*/
+
+
+/*Tablet device < 1025px*/
+@media screen and (min-width: 769px) and (max-width: 1025px) {
+
+    html {
+        font-size: 56.25%;
+    }
+
+    .container {
+        max-width: 90%;
+    }
+
+    .header {
+        position: relative;
+        padding-top: 2rem;
+        padding-bottom: 8rem;
+    }
+
+    .header__inner {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: normal;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /*Post*/
+    .linkpost {
+        max-width: 45%;
+    }
+
+    .row .linkpost:not(:nth-child(3n)) {
+        margin-right: 0;
+    }
+
+    /*SIgn up -sign in*/
+
+    .signup__right {
+        float: left;
+        width: 50%;
+    }
+
+        .signup__right .signup__image {
+            width: 36rem;
+            height: 30.2rem;
+        }
+
+            .signup__right .signup__image img {
+                width: 100%;
+                height: 100%;
+            }
+}
+/*Mobile device < 768px*/
+@media screen and (max-width: 768px) {
+
+    /*Account*/
+    .tableAccount {
+        width: 100%;
+    }
+  
+}
+@media screen and (max-width: 768px) {
+    
+}
+   

@@ -1,0 +1,33 @@
+﻿/*YOUR BLOG*/
+.yourblog {
+    margin-bottom: 6rem;
+}
+
+.yourblog__image {
+    width: 20rem;
+    height: 13rem;
+    float: left;
+    margin-right: 1.5rem;
+}
+
+.yourblog__content {
+    float: left;
+    width: 80rem;
+}
+
+   
+
+@media screen and (max-width: 768px) {
+
+    /*Blog*/
+    .yourblog__content {
+        width: 100%;
+    }
+
+  
+}
+
+.btnDelete{
+    float: left;
+}
+

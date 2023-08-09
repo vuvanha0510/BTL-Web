@@ -1,0 +1,139 @@
+﻿
+.Contact__Header {
+    width: 100%;
+    height: 30rem;
+    background-color: #7F7DE8;
+}
+    .Contact__Header > header > h1 {
+        font-size: 5rem;
+        color: white;
+
+        text-align: center;
+        line-height: 30rem;
+    }
+.Contact__container {
+    min-height: 85vh;
+    width: 98%;
+    margin: -3rem 1% 3rem 1%;
+    border-radius: 1rem;
+    background-color: white;
+    box-shadow: 1px 1px 20px black;
+    padding: 8rem;
+}
+
+
+.main-container {
+    width: 120rem;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.Container_image_left {
+    width: 50rem;
+    height: 50rem;
+    float: left;
+}
+
+.Container_form_right {
+    float: left;
+}
+
+.main-container .content {
+    width: 100%;
+    padding-top:5rem;
+    padding-bottom: 2rem;
+}
+
+    .main-container .content h1 {
+        font-size: 4rem;
+    }
+
+    .main-container .content h3 {
+        padding-top: 1rem;
+        font-size: 1.5rem;
+    }
+
+#frmContact {
+    margin: 0 auto;
+}
+
+._1_2row_l {
+    float: left;
+}
+
+._1_2row_r {
+    float: left;
+    margin-left: 5rem;
+}
+
+    ._1_2row_l, ._1_2row_r > label {
+        font-size: 2rem;
+    }
+
+        ._1_2row_l > input, ._1_2row_r > input {
+            font-size: 2.3rem;
+            width: 30rem;
+        }
+
+._1row {
+    margin-bottom: 1.5rem;
+ 
+}
+
+    ._1row > label {
+        font-size: 2rem;
+    }
+
+    ._1row > input {
+        font-size: 2.5rem;
+    }
+
+    ._1row > textarea {
+        font-size: 2rem;
+        width: 30rem;
+    }
+
+.button {
+    width: 65.5rem;
+    margin-bottom: 5rem;
+}
+
+.button button {
+        background-color: teal;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+  
+    }
+
+@media screen and (max-width: 1025px) {
+    .Container_image_left {
+        display: none;
+        float:none;
+    }
+    .Container_form_right {
+        padding: 1.5rem;
+    }
+}
+@media screen and (max-width: 768px) {
+    ._1_2row_l {
+        width: 100%;
+
+    }
+    ._1_2row_r {
+        width: 100%;
+    }
+    ._1_2row_r {
+        margin-left: 0;
+    }
+}
+

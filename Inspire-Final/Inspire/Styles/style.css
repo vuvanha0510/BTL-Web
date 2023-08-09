@@ -1,0 +1,505 @@
+﻿/*
+    ===================================== NOTE  ================================
+
+    => Note in this style.css
+
+
+    - Style.css use for Set up base, Home.aspx and Category.aspx.
+    - Element use for all page: Header , Menu(& button) and Footer.
+    - Banner is only for Home.aspx.
+    - Post use for everypage used to display blog: home.aspx, category.aspx,...
+    - Animation in the end of style.css.
+    - Responsive in this file for Base, Header, Menu, Post.
+    - For every page aspx has 1 file css. Check out !!!
+
+
+
+    ================================= Enjoy our Inspire project =============================
+
+*/
+
+
+/*SET UP BASE CSS*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.8rem;
+    font-family: 'Nunito', sans-serif;
+}
+
+.contentform {
+
+}
+
+ul {
+    list-style: none;
+}
+
+ol {
+    margin-left: 5rem;
+}
+
+a {
+    text-decoration: none;
+}
+.clearfix {
+    content: '';
+    clear: both;
+    display: table;
+}
+
+img {
+    width: 100% !important;
+    height: 100% !important;
+    display: block !important;
+}
+
+
+.main {
+    min-height: calc(100vh - 13.8rem - 6.8rem - 11.4rem);
+}
+
+    .main > h1 {
+        text-align: center;
+        font-size: 6rem;
+        font-weight: 800;
+        margin-top: 10rem;
+    }
+
+.container {
+    max-width: 126rem;
+    margin: 16rem auto;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.row {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    overflow: hidden;
+}
+
+/*HEADER*/
+
+.header {
+    background-color: #FFA500;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-shadow: 10px 3px 11px 3px rgba(0, 0, 0, 0.4);
+    z-index: 9999;
+}
+.header a {
+        color: #ecf0f1;
+    }
+
+.header__inner {
+    width: 126rem;
+    padding: 1rem;
+    margin: 0 auto;
+    height: 8rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+
+
+
+/*MENU AND BUTTON */
+
+.menu {
+    font-size: 1.6rem;
+    width: auto;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+    .menu .menu__item {
+        padding: 1.5rem;
+        position: relative;
+    }
+    .menu .menu__item .icon {
+        display:none;
+        font-size:2rem;
+    }
+
+.submenu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 40rem;
+    opacity: 0;
+    visibility: hidden;
+    padding: 1.5rem;
+    background: #fff;
+    border-top: 4px solid #3ecf8e;
+    transition: opacity 0.5s;
+    box-shadow: 0 0 8px 4px rgba(0,0,0,.12);
+    z-index: 9999;
+}
+
+.menu .menu__item:hover .submenu {
+    opacity: 1;
+    visibility: visible;
+}
+
+.submenu .submenu__item .submenu__link {
+    color: #6b7c93;
+    padding: 1rem;
+    display: block;
+}
+
+.submenu .submenu__item:hover .submenu__link {
+    background-color: #eff3f6;
+}
+
+.menu .menu__item .menu__link {
+    color: #8789cd;
+    transition: 0.5s;
+}
+
+.menu .menu__item:hover .menu__link {
+    color: #ecf0f1;
+}
+
+.btn {
+    padding: 1rem 1.7rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 1.5rem;
+    display: inline-block;
+    transition: .4s;
+}
+
+.btnDelete {
+}
+
+.btn:hover {
+    opacity: .8;
+}
+
+.btn--white {
+    border: none;
+}
+
+.btnLogout {
+    background: none;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 1.6rem;
+}
+
+.btn--login {
+    background-color: #2980b9;
+    border: 1px solid #2980b9;
+}
+
+.btn--logout {
+    background-color: #e05454;
+    border: 1px solid #e05454;
+}
+
+
+/*BANNER */
+
+.banner {
+  
+    height: 100vh;
+    color: #fff;
+    background: url("../Images/background2.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: .8;
+}
+
+.banner__content {
+    text-align: center;
+}
+
+.banner__title {
+    font-size: 10rem;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 1.8rem;
+    animation: moveInLeft 1s ease-out;
+}
+
+.banner__desc {
+    font-size: 2rem;
+    margin-bottom: 4rem;
+    letter-spacing: 1.7rem;
+    text-transform: uppercase;
+    animation: moveInRight 1s ease-out;
+}
+
+.banner__action {
+    width: 15rem;
+    margin: 0 auto;
+    color: #fff;
+    display: block;
+    padding: 1.5rem 3rem;
+    background-color: #3ecf8e;
+    border: none;
+    border-radius: 5px;
+    transition: all .5s;
+    animation: moveInBottom .5s ease-out .75s;
+    animation-fill-mode: backwards;
+}
+
+    .banner__action:hover {
+        background-color: #44a579;
+    }
+
+/*POST FOR ALL PAGE USE DISPLAY BLOG*/
+
+.home {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.linkpost {
+    max-width: 30.33%;
+    color: #313136;
+    margin-bottom: 5rem;
+}
+
+
+.linkpost .post__image img {  
+
+  height:40rem !important;
+  object-fit:cover;
+  transition: transform .6s ease;
+  
+}
+
+yourblog__content h2 {
+    color: red;
+}
+
+a.linkpost .post__image:hover img {
+    transform: scale(1.4);
+}
+
+.row .linkpost:not(:nth-child(3n)) {
+    margin-right: 3rem;
+}
+
+.linkpost h4 {
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    color: #37aece;
+    margin: 1.5rem 0;
+}
+
+.post__image {
+    width: 100%;
+    height: 40rem;
+    overflow: hidden;
+}
+
+.post__content {
+
+    height: 30rem;
+    word-wrap:break-word;
+}
+
+.post__title {
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    margin: 1.5rem 0;
+}
+
+.post__desc {
+    font-size: 1.6rem;
+    text-align: justify;
+}
+
+.post__author {
+    margin: 1.5rem 0;
+    font-size: 1.4rem;
+}
+/*FOOTER*/
+
+.footer {
+    background-color: #FFA500;
+    height: 8rem;
+}
+
+    .footer p {
+        text-align: center;
+        color: #ecf0f1;
+        line-height: 8rem;
+    }
+
+/*ANIMATIONS HERE*/
+@keyframes moveInLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-10rem);
+    }
+
+    80% {
+        transform: translateX(1rem);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes moveInRight {
+    0% {
+        opacity: 0;
+        transform: translateX(10rem);
+    }
+
+    80% {
+        transform: translateX(-1rem);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes moveInBottom {
+    0% {
+        opacity: 0;
+        transform: translateY(3rem);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/*MEIDA QUERIES*/
+
+
+/*Tablet device < 1025px*/
+@media screen and (min-width: 769px) and (max-width: 1025px) {
+   
+    html {
+        font-size:56.25%;
+    }
+    .container {
+       max-width: 90%;
+    }
+    .header {
+        position: relative;
+        padding-top: 2rem;
+        padding-bottom:8rem;
+    }
+    .header__inner {
+        width:100%;
+        height: auto;
+        display: flex;
+        justify-content:normal;
+        flex-direction:column;
+        align-items: center;
+    }
+
+    /*Post*/
+    .linkpost {
+        max-width: 45%;
+    }
+    .row .linkpost:not(:nth-child(3n)) {
+        margin-right: 0;
+    }
+   
+    /*SIgn up -sign in*/
+}
+/*Mobile device < 768px*/
+@media screen and (max-width: 768px) {
+
+    html {
+        font-size: 50%;
+    }
+    .container {
+        max-width: 100%;
+    }
+    .header__inner {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: normal;
+        flex-direction: column;
+        align-items: center;
+    }
+    /*Banner*/
+    .banner__title {
+        font-size: 5rem;
+    }
+    .banner__desc {
+        letter-spacing: 1rem;
+    }
+    /*Banner*/
+   
+    
+    /*Responsive menu*/
+    .menu .menu__item .menu__link{
+        display:none;
+    }
+    .menu .menu__item .icon {
+        display: block;
+    }
+    /*Responsive menu*/
+
+    /*Post*/
+    .linkpost {
+        max-width: 100%;
+    }
+    .row .linkpost:not(:nth-child(3n)) {
+        margin-right: 0;
+    }
+    .post__image {
+        width: 100%;
+   
+    }
+    .post__content {
+        width: 100%;
+    }
+
+}
+@media screen and (max-width: 768px) {
+     .menu.responsive {
+            position: relative;
+            flex-direction:column;
+        }
+            .menu.responsive .menu__item .icon {
+                position: absolute;
+                right: 0;
+                top: 0;
+            }
+
+            .menu.responsive .menu__item .menu__link{
+                display: block;
+                text-align: center;
+            }
+
+
+}
+   

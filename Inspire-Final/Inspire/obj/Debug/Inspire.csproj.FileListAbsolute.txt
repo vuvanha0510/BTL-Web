@@ -1,0 +1,424 @@
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\Inspire.dll.config
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\Inspire.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\Inspire.pdb
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\csc.exe
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\csc.exe.config
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\csc.rsp
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\csi.exe
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\csi.rsp
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\System.AppContext.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\System.Collections.Immutable.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\System.Reflection.Metadata.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\vbc.exe
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\vbc.exe.config
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\vbc.rsp
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe.config
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\CKEditor.NET.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ADC\Project\Inspire\Inspire\Inspire\obj\Debug\Inspire.csprojAssemblyReference.cache
+D:\ADC\Project\Inspire\Inspire\Inspire\obj\Debug\Inspire.csproj.CoreCompileInputs.cache
+D:\ADC\Project\Inspire\Inspire\Inspire\obj\Debug\Inspire.csproj.CopyComplete
+D:\ADC\Project\Inspire\Inspire\Inspire\obj\Debug\Inspire.dll
+D:\ADC\Project\Inspire\Inspire\Inspire\obj\Debug\Inspire.pdb
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\obj\Debug\Inspire.csprojAssemblyReference.cache
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\obj\Debug\Inspire.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\obj\Debug\Inspire.pdb
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\Inspire.dll.config
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\Inspire.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\Inspire.pdb
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\csc.exe
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\csc.rsp
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\csi.exe
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\csi.rsp
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\vbc.exe
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\CKEditor.NET.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\BTL\BTL_WEB-ASP.NET\Inspire\Inspire\obj\Debug\Inspire.csproj.CopyComplete
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\Inspire.dll.config
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\Inspire.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\Inspire.pdb
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\csc.exe
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\csc.exe.config
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\csc.rsp
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\csi.exe
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\csi.rsp
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\System.AppContext.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\System.Collections.Immutable.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\System.Reflection.Metadata.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\vbc.exe
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\vbc.exe.config
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\vbc.rsp
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe.config
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\CKEditor.NET.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\obj\Debug\Inspire.csprojAssemblyReference.cache
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\obj\Debug\Inspire.csproj.CoreCompileInputs.cache
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\obj\Debug\Inspire.csproj.CopyComplete
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\obj\Debug\Inspire.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\obj\Debug\Inspire.pdb
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\CKFinder.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_Web_Blog_MVC\Inspire\Inspire\bin\CKFinder.pdb
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\Inspire.dll.config
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\Inspire.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\Inspire.pdb
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\CKEditor.NET.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\CKFinder.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\CKFinder.pdb
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\obj\Debug\Inspire.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\obj\Debug\Inspire.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\obj\Debug\Inspire.csproj.CopyComplete
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\obj\Debug\Inspire.dll
+C:\Users\Admin\Desktop\Inspire\Inspire\Inspire\obj\Debug\Inspire.pdb
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\Inspire.dll.config
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\Inspire.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\Inspire.pdb
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\csc.exe
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\csc.exe.config
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\csc.rsp
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\csi.exe
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\csi.rsp
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\System.AppContext.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\System.Collections.Immutable.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\System.Reflection.Metadata.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\vbc.exe
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\vbc.exe.config
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\vbc.rsp
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe.config
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\CKEditor.NET.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\CKFinder.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\CKFinder.pdb
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\obj\Debug\Inspire.csprojAssemblyReference.cache
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\obj\Debug\Inspire.csproj.CoreCompileInputs.cache
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\obj\Debug\Inspire.csproj.CopyComplete
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\obj\Debug\Inspire.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\Inspire\obj\Debug\Inspire.pdb
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\Inspire.dll.config
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\Inspire.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\Inspire.pdb
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\csc.exe
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\csc.exe.config
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\csc.rsp
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\csi.exe
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\csi.rsp
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\System.AppContext.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\vbc.exe
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\vbc.exe.config
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\vbc.rsp
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe.config
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\CKEditor.NET.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\CKFinder.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\CKFinder.pdb
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\obj\Debug\Inspire.csprojAssemblyReference.cache
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\obj\Debug\Inspire.csproj.CoreCompileInputs.cache
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\obj\Debug\Inspire.csproj.CopyComplete
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\obj\Debug\Inspire.dll
+D:\HocTap\LTW\Inspire\Inspire\Inspire\Inspire\obj\Debug\Inspire.pdb
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\Inspire.dll.config
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\Inspire.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\Inspire.pdb
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\csc.exe
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\csc.exe.config
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\csc.rsp
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\csi.exe
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\csi.rsp
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\System.AppContext.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\System.Collections.Immutable.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\System.Reflection.Metadata.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\vbc.exe
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\vbc.exe.config
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\vbc.rsp
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe.config
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\CKEditor.NET.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\CKFinder.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\CKFinder.pdb
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\obj\Debug\Inspire.csprojAssemblyReference.cache
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\obj\Debug\Inspire.csproj.CoreCompileInputs.cache
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\obj\Debug\Inspire.csproj.CopyComplete
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\obj\Debug\Inspire.dll
+D:\THE STUDYING FILES\PROGRAMING\Inspire\Inspire\obj\Debug\Inspire.pdb
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\Inspire.dll.config
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\Inspire.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\Inspire.pdb
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\CKEditor.NET.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\CKFinder.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\CKFinder.pdb
+C:\Users\User\Desktop\Inspire-Final\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Inspire-Final\Inspire\obj\Debug\Inspire.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Inspire-Final\Inspire\obj\Debug\Inspire.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Inspire-Final\Inspire\obj\Debug\Inspire.csproj.CopyComplete
+C:\Users\User\Desktop\Inspire-Final\Inspire\obj\Debug\Inspire.dll
+C:\Users\User\Desktop\Inspire-Final\Inspire\obj\Debug\Inspire.pdb
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\Inspire.dll.config
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\Inspire.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\Inspire.pdb
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\csc.exe
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\csc.rsp
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\csi.exe
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\csi.rsp
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\vbc.exe
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\CKEditor.NET.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\CKFinder.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\CKFinder.pdb
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\obj\Debug\Inspire.csprojAssemblyReference.cache
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\obj\Debug\Inspire.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\obj\Debug\Inspire.csproj.CopyComplete
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\obj\Debug\Inspire.dll
+C:\Users\User\Documents\BTL\Inspire-Final\Inspire\obj\Debug\Inspire.pdb
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\Inspire.dll.config
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\Inspire.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\Inspire.pdb
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\csc.exe
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\csc.exe.config
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\csc.rsp
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\csi.exe
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\csi.rsp
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\System.AppContext.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\vbc.exe
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\vbc.exe.config
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\vbc.rsp
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\VBCSCompiler.exe
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\CKEditor.NET.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\CKFinder.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\CKFinder.pdb
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\obj\Debug\Inspire.csproj.AssemblyReference.cache
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\obj\Debug\Inspire.csproj.CoreCompileInputs.cache
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\obj\Debug\Inspire.csproj.CopyComplete
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\obj\Debug\Inspire.dll
+C:\Users\84917\Dropbox\My PC (LAPTOP-OF6TKNB9)\Downloads\Inspire-Final\Inspire-Final\Inspire\obj\Debug\Inspire.pdb
+D:\Inspire-Final\Inspire\bin\Inspire.dll.config
+D:\Inspire-Final\Inspire\bin\Inspire.dll
+D:\Inspire-Final\Inspire\bin\Inspire.pdb
+D:\Inspire-Final\Inspire\bin\roslyn\csc.exe
+D:\Inspire-Final\Inspire\bin\roslyn\csc.exe.config
+D:\Inspire-Final\Inspire\bin\roslyn\csc.rsp
+D:\Inspire-Final\Inspire\bin\roslyn\csi.exe
+D:\Inspire-Final\Inspire\bin\roslyn\csi.rsp
+D:\Inspire-Final\Inspire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Inspire-Final\Inspire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Inspire-Final\Inspire\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Inspire-Final\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Inspire-Final\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Inspire-Final\Inspire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Inspire-Final\Inspire\bin\roslyn\System.AppContext.dll
+D:\Inspire-Final\Inspire\bin\roslyn\System.Collections.Immutable.dll
+D:\Inspire-Final\Inspire\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Inspire-Final\Inspire\bin\roslyn\System.IO.FileSystem.dll
+D:\Inspire-Final\Inspire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Inspire-Final\Inspire\bin\roslyn\System.Reflection.Metadata.dll
+D:\Inspire-Final\Inspire\bin\roslyn\vbc.exe
+D:\Inspire-Final\Inspire\bin\roslyn\vbc.exe.config
+D:\Inspire-Final\Inspire\bin\roslyn\vbc.rsp
+D:\Inspire-Final\Inspire\bin\roslyn\VBCSCompiler.exe
+D:\Inspire-Final\Inspire\bin\roslyn\VBCSCompiler.exe.config
+D:\Inspire-Final\Inspire\bin\CKEditor.NET.dll
+D:\Inspire-Final\Inspire\bin\CKFinder.dll
+D:\Inspire-Final\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Inspire-Final\Inspire\bin\CKFinder.pdb
+D:\Inspire-Final\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Inspire-Final\Inspire\obj\Debug\Inspire.csproj.AssemblyReference.cache
+D:\Inspire-Final\Inspire\obj\Debug\Inspire.csproj.CoreCompileInputs.cache
+D:\Inspire-Final\Inspire\obj\Debug\Inspire.csproj.CopyComplete
+D:\Inspire-Final\Inspire\obj\Debug\Inspire.dll
+D:\Inspire-Final\Inspire\obj\Debug\Inspire.pdb
